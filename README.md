@@ -23,7 +23,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poorn8898&&color=0e75b6&style=flat"  /> </p>
 
-- 🌱 I’m currently learning **DATA Structures/ DATA Science.**
+- 🌱 I’m currently learning **DATA Science.**
 
 - 💬 Ask me about **PYTHON/AWS/ADVANCE JAVA/RDBMS**
 
